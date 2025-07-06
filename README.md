@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Chouati</h1>
 <h3 align="center">Frontend Developer | SaaS, Landing Pages, E-commerce | React.js, Next.js</h3>
 
-- 🔭 I’m currently working on [Made In City](https://beta.madein.city/marrakech/fr/)
+- 🔭 I’m currently working on [Made In City](https://madein.city/marrakech/fr/)
 
 - 📫 How to reach me **chouati.dev@gmail.com**
 
