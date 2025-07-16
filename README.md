@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Chouati</h1>
-<h3 align="center">Frontend Developer | SaaS, Landing Pages, E-commerce | React.js, Next.js</h3>
+<h3 align="center">👨‍💻 | Software Engineer | 🤖 AI SaaS MVP | Next.js, OpenAI, LLM, RAG, MERN, Supabase</h3>
 
 - 🔭 I’m currently working on [Made In City](https://madein.city/marrakech/fr/)
 
